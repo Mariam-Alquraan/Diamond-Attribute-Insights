@@ -24,7 +24,7 @@ The dataset used in this project is the `diamonds` dataset, which is from 'Kaggl
 ## Analysis and Results
 The analysis for this project is divided into two main parts:
 1. **Exploratory Data Analysis (EDA)**:  
-   - Performed in a Jupyter Notebook, which is shared via Google Colab for easy access. You can view the notebook link in the `Exploratory_Data_Analysis.docx` document.  
+   - Performed in a Jupyter Notebook, which is shared via [Google Colab](https://colab.research.google.com/drive/1FvLcuxvDC125aj4Gglq26TShEFyM-1J9?usp=sharing#scrollTo=18f5e4de) for easy access. You can view the notebook link in the `Exploratory_Data_Analysis.docx` document.  
    - The EDA document contains detailed insights, visualizations, and initial findings.
 
 2. **Final Report**:  
