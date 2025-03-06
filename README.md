@@ -29,7 +29,6 @@ The analysis for this project is divided into two main parts:
 
 2. **Final Report**:  
    - The final report (`Final_Report.docx`) summarizes the analysis, key findings, and conclusions.
-   - Performed in a Jupyter Notebook, which is shared via Google Colab for easy access. You can view the notebook link in the `Final_Report.docx` document.  
    - It includes advanced statistical analysis, visualizations, and recommendations based on the dataset.
 
 
